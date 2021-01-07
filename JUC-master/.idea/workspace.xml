@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="537745d2-fdf3-45e3-91ce-55d43dfd9027" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>synchronized</find>
+      <find>compare</find>
+      <find>incrementand</find>
+      <find>compareandset</find>
+      <find>all</find>
+      <find>sun.mi</find>
+      <find>onadv</find>
+      <find>set</find>
+      <find>synchronizedMap</find>
+      <find>synchronizedList</find>
+      <find>Fork</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\DevInstall\Java\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lu9kx6iRILbj416trd4GiOZhVP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19058296" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mashibing.juc.c_020" />
+      <recent name="com.mashibing" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mashibing.juc.c_028_FalseSharing" />
+      <recent name="com.mashibing.juc.c_020_01_Interview" />
+      <recent name="com.mashibing.juc.c_029_FromVectorToCHM" />
+      <recent name="com.mashibing.juc.c_020" />
+      <recent name="com.mashibing.juc.c_012_Volatile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\juc\c_026_01_ThreadPool" />
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\juc\c_022_RefTypeAndThreadLocal" />
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\disruptor\v4" />
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\disruptor\" />
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\disruptor\v3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="T02_HowToCreateThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.juc.c_000.T02_HowToCreateThread" />
+      <module name="JUC-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.juc.c_000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T02_HowToCreateThread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="537745d2-fdf3-45e3-91ce-55d43dfd9027" name="Default Changelist" comment="" />
+      <created>1565232818446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565232818446</updated>
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交演示代码">
+      <created>1566616292953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566616292953</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2019年9月8日的更新">
+      <created>1567908240513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567908240513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2019年9月22日的更新">
+      <created>1569205605236</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569205605236</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2019年9月29日的更新">
+      <created>1569727444423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569727444423</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2019年10月11日的更新">
+      <created>1570803022734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570803022735</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2019年10月16日的更新">
+      <created>1571235524344</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571235524344</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2019年11月10日的更新">
+      <created>1573357300351</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573357300351</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交演示代码" />
+    <MESSAGE value="2019年9月8日的更新" />
+    <MESSAGE value="2019年9月22日的更新" />
+    <MESSAGE value="2019年9月29日的更新" />
+    <MESSAGE value="2019年10月11日的更新" />
+    <MESSAGE value="2019年10月16日的更新" />
+    <MESSAGE value="2019年11月10日的更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019年11月10日的更新" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="815" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608436306145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="815" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608436306145" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1608438608134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608438608134" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T11_TestSemaphore.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_021_02_AQS/TestReentrantLock.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>807</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
